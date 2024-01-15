@@ -2,4 +2,4 @@ they/them
 
 nb demi lesbian furry
 
-i work with js/ts, c#, lua, sometimes c++, and a lot of others
+langs that use/know/am interested in: haskell, scala, lua, cpp, js/ts, c#
